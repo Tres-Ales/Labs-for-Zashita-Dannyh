@@ -1,0 +1,13 @@
+C:\Users\Alesya\source\repos\CertDB\CertDB\bin\Debug\CertDB.exe.config
+C:\Users\Alesya\source\repos\CertDB\CertDB\bin\Debug\CertDB.exe
+C:\Users\Alesya\source\repos\CertDB\CertDB\bin\Debug\CertDB.pdb
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.csproj.AssemblyReference.cache
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.Form1.resources
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.Properties.Resources.resources
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.csproj.GenerateResource.cache
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.csproj.CoreCompileInputs.cache
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.exe
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.pdb
+C:\Users\Alesya\source\repos\CertDB\CertDB\obj\Debug\CertDB.AboutBox1.resources
+C:\Users\Alesya\source\repos\CertDB\CertDB\bin\Debug\certificate.mdf
+C:\Users\Alesya\source\repos\CertDB\CertDB\bin\Debug\certificate_log.ldf
