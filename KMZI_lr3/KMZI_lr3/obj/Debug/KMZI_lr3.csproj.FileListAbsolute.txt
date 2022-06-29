@@ -1,0 +1,11 @@
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\bin\Debug\KMZI_lr3.exe.config
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\bin\Debug\KMZI_lr3.exe
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\bin\Debug\KMZI_lr3.pdb
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.csproj.AssemblyReference.cache
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.AboutBox1.resources
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.Form1.resources
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.Properties.Resources.resources
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.csproj.GenerateResource.cache
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.csproj.CoreCompileInputs.cache
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.exe
+C:\Users\Alesya\source\repos\KMZI_lr3\KMZI_lr3\obj\Debug\KMZI_lr3.pdb

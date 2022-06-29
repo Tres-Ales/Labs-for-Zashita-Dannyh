@@ -1,0 +1,17 @@
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Alesya_UT_DB.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Alesya_UT_DB.pdb
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\obj\Debug\Alesya_UT_DB.csproj.AssemblyReference.cache
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\obj\Debug\Alesya_UT_DB.csproj.CoreCompileInputs.cache
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\obj\Debug\Alesya_UT_DB.csproj.CopyComplete
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\obj\Debug\Alesya_UT_DB.dll
+C:\Users\Alesya\source\repos\Alesya_UT_DB\Alesya_UT_DB\obj\Debug\Alesya_UT_DB.pdb

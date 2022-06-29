@@ -1,0 +1,11 @@
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\bin\Debug\KMSI_lr1.exe.config
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\bin\Debug\KMSI_lr1.exe
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\bin\Debug\KMSI_lr1.pdb
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.csproj.AssemblyReference.cache
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.AboutBox1.resources
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.Form1.resources
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.Properties.Resources.resources
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.csproj.GenerateResource.cache
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.csproj.CoreCompileInputs.cache
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.exe
+C:\Users\Alesya\source\repos\KMSI_lr1\KMSI_lr1\obj\Debug\KMSI_lr1.pdb

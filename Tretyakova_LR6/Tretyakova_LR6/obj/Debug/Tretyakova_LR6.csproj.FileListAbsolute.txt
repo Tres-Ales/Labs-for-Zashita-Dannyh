@@ -1,0 +1,10 @@
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\bin\Debug\Tretyakova_LR6.exe.config
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\bin\Debug\Tretyakova_LR6.exe
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\bin\Debug\Tretyakova_LR6.pdb
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.csproj.AssemblyReference.cache
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.MainForm.resources
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.Properties.Resources.resources
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.csproj.GenerateResource.cache
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.csproj.CoreCompileInputs.cache
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.exe
+C:\Users\Alesya\source\repos\Tretyakova_LR6\Tretyakova_LR6\obj\Debug\Tretyakova_LR6.pdb
